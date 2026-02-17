@@ -30,7 +30,7 @@ UADF is a set of Claude Code skills and templates that turn AI coding assistants
 **Option 1: Install Script (macOS/Linux)**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/UADF.git
+git clone https://github.com/mfaughn/UADF.git
 cd UADF
 ./install.sh
 ```
